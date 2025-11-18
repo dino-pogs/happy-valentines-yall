@@ -50,6 +50,9 @@ body {
   color: black;
   font-family: 'Amatic SC', cursive;
 }
+.enveloper__card-text {
+  text-align: center;
+}
 
 .envelope .envelope__side {
   position: absolute;
@@ -187,4 +190,5 @@ body {
     left: 50%;
   }
 }
+
 
